@@ -1,0 +1,101 @@
+.fondo
+{
+	background-color: #0d0d0d;
+	width: 100%;
+	height: 800px;
+	position: relative;
+	z-index: 1;
+}
+
+.logococacola
+{
+    height: 800px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    z-index: 2;
+    bottom:200px;
+}
+
+.cocacolatext
+{
+    height: 800px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    z-index: 3;
+    bottom: -20px;
+    right: 40px;
+
+}
+
+.botella
+{
+    height: 100px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    z-index: 4;
+    bottom: 560px;
+    right: 40px;
+}
+
+.barralat
+{   
+    height: 800px;
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    z-index: 5;
+}
+
+.boton1
+{
+    height:51px;
+    width: 51%;
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    z-index: 7;
+    right:-235px;
+    top: 720px;
+}
+
+.boton2
+{
+    height:51px;
+    width: 51%;
+    display: flex;
+    justify-content:space-around;
+    position: absolute;
+    z-index: 7;
+    right:-300px;
+    top: 720px;
+}
+
+.tituloMenu
+{
+    font-family: 'BDCartoonShoutRegular';
+    font-weight: bold;
+    font-style: bold   
+    font-size: 100%;
+    color: gold;
+    right: -200px;
+}
+
+.lol
+{
+    background-color: transparent;
+    font-family: 'BDCartoonShoutRegular';
+    font-weight: bold;
+    font-style: bold
+    color:gold;
+}
+
+
+
+
+
